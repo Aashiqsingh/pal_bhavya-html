@@ -1,0 +1,10 @@
+flipkart
+amazon
+zomato
+swiggy
+instagram
+facebook
+snapchat
+linkedin
+twitter
+lenskart
