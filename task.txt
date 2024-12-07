@@ -8,3 +8,8 @@ snapchat
 linkedin
 twitter
 lenskart
+
+
+
+employee table 
+sr no , name , email , salary , mobile , age
