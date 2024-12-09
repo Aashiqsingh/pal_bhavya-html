@@ -12,4 +12,12 @@ lenskart
 
 
 employee table 
+
 sr no , name , email , salary , mobile , age
+
+
+
+Audio :
+
+srno , Singer name , singer img , song name , Audio 
+1      Arjit sing                  Tum hi ho  
